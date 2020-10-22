@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test NG demo suite">
+ <test name="testngTestNG">
+ <classes>
+ <class name="TestNGDemo.GoogleTitleTest" />
+ <class name="TestNGDemo.TestNG" />
+ <class name="TestNGDemo.TestNGbasics" />
+ <class name="TestNGDemo.TestNGfeature" />
+ </classes>
+ </test>
+</suite>
